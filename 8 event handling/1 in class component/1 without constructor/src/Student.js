@@ -5,7 +5,7 @@
 
         // handleClick(){                   //1
         //   alert("click occured");
-        //   console.log(this);  // this ref variable not aavailable
+        //   console.log(this);  // this ref variable not available
         // }
 
 
